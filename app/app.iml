@@ -94,8 +94,8 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="gson-2.2.4" level="project" />
     <orderEntry type="library" exported="" name="google-http-client-android-1.22.0" level="project" />
-    <orderEntry type="library" exported="" name="google-http-client-gson-1.22.0" level="project" />
     <orderEntry type="library" exported="" name="google-api-client-android-1.22.0" level="project" />
+    <orderEntry type="library" exported="" name="google-http-client-gson-1.22.0" level="project" />
     <orderEntry type="library" exported="" name="google-api-client-gson-1.22.0" level="project" />
     <orderEntry type="library" exported="" name="google-api-client-1.22.0" level="project" />
     <orderEntry type="library" exported="" name="guava-jdk5-17.0" level="project" />

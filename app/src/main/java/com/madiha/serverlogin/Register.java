@@ -27,8 +27,9 @@ String semail=email.getText().toString();
 String suname=uname.getText().toString();
         String spassword=password.getText().toString();
         String scpassword=cpassword.getText().toString();
+        Contact contact;
         if (scpassword.equals(spassword)){
-
+contact= new Contact(sname,semail,suname,spassword);
         }
         else {
             Toast.makeText(this,"password donot match",Toast.LENGTH_SHORT).show();
